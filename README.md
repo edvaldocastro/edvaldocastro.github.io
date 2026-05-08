@@ -1,4 +1,5 @@
-# Edvaldo Castro landing page
+# edvaldocastro.github.io
 
-Landing page for the GitHub Pages user site that points visitors into the archived blog content.
+Landing page for Edvaldo Castro.
 
+This site points visitors into the archived blog content and keeps the technical work reachable without a traditional host.
